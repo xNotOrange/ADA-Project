@@ -1,4 +1,2 @@
-# ADA-Project
-ADA Group 15
-Zircon Geochronology and Geochemistry
+# ADA-Group 15 Zircon Geochronology and Geochemistry
 
